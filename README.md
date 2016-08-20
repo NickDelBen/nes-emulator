@@ -1,5 +1,5 @@
 # nes-emulator
-A simple emulator written for the Nintendo Entertainment System
+A simple emulator written for the [Nintendo Entertainment System](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System "Nintendo Entertainment System")
 
 Largely based off [information](http://nesdev.com/NES%20emulator%20development%20guide.txt "NES emulator development guide") collected by Brad Taylor and provided by the [NES Community](http://nesdev.com/ "NESDev Community Home").
 
